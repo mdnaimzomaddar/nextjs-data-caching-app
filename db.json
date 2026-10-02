@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 79.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/smartwatch.jpg",
+      "description": "Modern smartwatch with fitness tracking and heart-rate monitoring.",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 59.99,
+      "category": "Fashion",
+      "image": "https://example.com/images/running-shoes.jpg",
+      "description": "Comfortable and lightweight running shoes for everyday workouts.",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 45.00,
+      "category": "Accessories",
+      "image": "https://example.com/images/backpack.jpg",
+      "description": "Stylish leather backpack suitable for work, travel, and college.",
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "category": "Computer Accessories",
+      "image": "https://example.com/images/keyboard.jpg",
+      "description": "RGB mechanical keyboard with responsive switches and a durable design.",
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://example.com/images/headphones.jpg",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "stock": 25
+    },
+    {
+      "id": 7,
+      "name": "The Alchemist",
+      "price": 12.99,
+      "category": "Books",
+      "image": "https://example.com/images/the-alchemist.jpg",
+      "description": "A philosophical novel about following your dreams and discovering your purpose.",
+      "stock": 40
+    },
+    {
+      "id": 8,
+      "name": "Atomic Habits",
+      "price": 18.99,
+      "category": "Books",
+      "image": "https://example.com/images/atomic-habits.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "stock": 35
+    },
+    {
+      "id": 9,
+      "name": "Clean Code",
+      "price": 29.99,
+      "category": "Programming Books",
+      "image": "https://example.com/images/clean-code.jpg",
+      "description": "A guide to writing clean, readable, maintainable, and professional code.",
+      "stock": 20
+    },
+    {
+      "id": 10,
+      "name": "JavaScript: The Good Parts",
+      "price": 24.99,
+      "category": "Programming Books",
+      "image": "https://example.com/images/javascript-good-parts.jpg",
+      "description": "An introduction to the useful features and core concepts of JavaScript.",
+      "stock": 18
+    },
+    {
+      "id": 11,
+      "name": "Rich Dad Poor Dad",
+      "price": 15.99,
+      "category": "Finance Books",
+      "image": "https://example.com/images/rich-dad-poor-dad.jpg",
+      "description": "A personal finance book about money, investing, and financial education.",
+      "stock": 30
+    },
+    {
+      "id": 12,
+      "name": "The Psychology of Money",
+      "price": 19.99,
+      "category": "Finance Books",
+      "image": "https://example.com/images/psychology-of-money.jpg",
+      "description": "Explores how emotions and behavior influence financial decisions.",
+      "stock": 25
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "name": "The Alchemist",
+      "price": 12.99,
+      "category": "Books",
+      "description": "A philosophical novel about following your dreams.",
+      "stock": 40
+    },
+    {
+      "id": 2,
+      "name": "Atomic Habits",
+      "price": 18.99,
+      "category": "Books",
+      "description": "A practical guide to building good habits.",
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "name": "Clean Code",
+      "price": 29.99,
+      "category": "Programming Books",
+      "description": "A guide to writing clean and maintainable code.",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "JavaScript: The Good Parts",
+      "price": 24.99,
+      "category": "Programming Books",
+      "description": "An introduction to the useful features of JavaScript.",
+      "stock": 18
+    },
+    {
+      "id": 5,
+      "name": "Rich Dad Poor Dad",
+      "price": 15.99,
+      "category": "Finance Books",
+      "description": "A book about money, investing, and financial education.",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "name": "The Psychology of Money",
+      "price": 19.99,
+      "category": "Finance Books",
+      "description": "Explores how emotions influence financial decisions.",
+      "stock": 25
+    }
+  ]
+}
