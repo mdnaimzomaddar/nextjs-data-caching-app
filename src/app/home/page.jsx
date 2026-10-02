@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const HomePage = () => {
@@ -20,7 +21,9 @@ const HomePage = () => {
               Hello! My name is Md Naim Zomaddar, and I am a Software Engineering student. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming.
             </p>
             <div className="card-actions">
-              <button className="btn btn-primary">View Github</button>
+              <Link href="https://github.com/mdnaimzomaddar">
+                <button className="btn btn-primary">View Github</button>
+              </Link>
             </div>
           </div>
         </div>
